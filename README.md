@@ -11,8 +11,7 @@ license: cc-by-nc-3.0
 ---
 # Global description 
 
-This is a speechbrain-based Automatic Speech Recognition (ASR) model for Tunisian arabic. It outputs tunisian transcriptions in arabic language. Since the language is unwritten, the transcriptions may vary. This model is the work of Salah Zaiem, PhD candidate, contact : zaiemsalah@gmail.com
-
+This is a speechbrain-based Automatic Speech Recognition (ASR) model for Tunisian arabic. It outputs tunisian transcriptions in arabic language. Since the language is unwritten, the transcriptions may vary. This model is 
 
 # Pipeline description
 This ASR system is composed of 2 different but linked blocks:
