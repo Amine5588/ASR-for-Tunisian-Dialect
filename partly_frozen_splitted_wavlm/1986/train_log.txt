@@ -1,0 +1,86 @@
+epoch: 1, lr_model: 1, lr_wav2vec: 1.00e-04 - train loss: 1.24 - valid loss: 9.24e-01, valid CER: 26.54, valid WER: 59.12
+epoch: 2, lr_model: 1, lr_wav2vec: 1.00e-04 - train loss: 9.67e-01 - valid loss: 9.03e-01, valid CER: 25.85, valid WER: 57.02
+epoch: 3, lr_model: 1, lr_wav2vec: 1.00e-04 - train loss: 8.84e-01 - valid loss: 8.81e-01, valid CER: 24.89, valid WER: 55.02
+epoch: 4, lr_model: 1, lr_wav2vec: 1.00e-04 - train loss: 8.19e-01 - valid loss: 8.31e-01, valid CER: 22.92, valid WER: 51.69
+epoch: 5, lr_model: 1, lr_wav2vec: 1.00e-04 - train loss: 7.76e-01 - valid loss: 8.67e-01, valid CER: 23.36, valid WER: 50.67
+epoch: 6, lr_model: 8.00e-01, lr_wav2vec: 9.00e-05 - train loss: 7.20e-01 - valid loss: 8.37e-01, valid CER: 22.87, valid WER: 49.84
+epoch: 7, lr_model: 8.00e-01, lr_wav2vec: 9.00e-05 - train loss: 6.87e-01 - valid loss: 8.78e-01, valid CER: 23.90, valid WER: 51.19
+epoch: 8, lr_model: 6.40e-01, lr_wav2vec: 8.10e-05 - train loss: 6.44e-01 - valid loss: 8.68e-01, valid CER: 23.03, valid WER: 49.83
+epoch: 9, lr_model: 6.40e-01, lr_wav2vec: 8.10e-05 - train loss: 6.20e-01 - valid loss: 8.47e-01, valid CER: 22.77, valid WER: 48.42
+epoch: 10, lr_model: 6.40e-01, lr_wav2vec: 8.10e-05 - train loss: 5.98e-01 - valid loss: 9.07e-01, valid CER: 24.31, valid WER: 49.76
+epoch: 11, lr_model: 5.12e-01, lr_wav2vec: 7.29e-05 - train loss: 5.60e-01 - valid loss: 9.08e-01, valid CER: 23.75, valid WER: 49.33
+epoch: 12, lr_model: 4.10e-01, lr_wav2vec: 6.56e-05 - train loss: 5.22e-01 - valid loss: 9.08e-01, valid CER: 22.61, valid WER: 47.69
+Epoch loaded: 12 - test loss: 1.26e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 5.95e-02, test CER: 20.52, test WER: 40.71
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 10.97, test WER: 54.41
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 10.03, test WER: 48.53
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 10.03, test WER: 48.53
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 10.03, test WER: 48.53
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 10.03, test WER: 48.53
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.72, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.40, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.40, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.40, test WER: 45.59
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 8.78, test WER: 44.12
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 10.66, test WER: 54.41
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 11.60, test WER: 60.29
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 7.97e-04, test CER: 9.09, test WER: 42.65
+Epoch loaded: 12 - test loss: 6.99e-05, test CER: 8.82, test WER: 42.86
+Epoch loaded: 12 - test loss: 6.99e-05, test CER: 8.82, test WER: 42.86
+Epoch loaded: 12 - test loss: 6.99e-05, test CER: 8.82, test WER: 42.86
