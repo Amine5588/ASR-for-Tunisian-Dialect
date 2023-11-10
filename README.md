@@ -1,14 +1,5 @@
----
-title: Tunisian Asr
-emoji: 🐠
-colorFrom: pink
-colorTo: yellow
-sdk: gradio
-sdk_version: 3.16.1
-app_file: app.py
-pinned: false
-license: cc-by-nc-3.0
----
+# LINK FOR PRESENTATION :
+https://www.canva.com/design/DAFr44HNzJU/aIznFeI1pOQIPTw6s-FBjw/edit?utm_content=DAFr44HNzJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # Global description 
 
 This is a speechbrain-based Automatic Speech Recognition (ASR) model for Tunisian arabic. It outputs tunisian transcriptions in arabic language. Since the language is unwritten, the transcriptions may vary. This model is 
