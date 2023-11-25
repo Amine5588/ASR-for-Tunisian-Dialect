@@ -14,7 +14,7 @@ The system is trained with single channel recordings resampled at  16 khz. (The 
 #Limitations 
 Due to the nature of the available training data, the model may encounter issues when dealing with foreign words. So while it is common for Tunisian speakers to use (mainly french) foreign words, these will lead to more errors, we are working on improving this in further models. 
 
-Run is done on CPU to keep it free in this space. This leads to quite long running times on long sequences. If for your project or research, you want to transcribe long sequences, feel free to drop an email here : zaiemsalah@gmail.com 
+Run is done on CPU to keep it free in this space. This leads to quite long running times on long sequences.
 
 # Referencing SpeechBrain
 
